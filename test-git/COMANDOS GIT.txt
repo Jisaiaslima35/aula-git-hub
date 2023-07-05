@@ -1,9 +1,12 @@
 1 - git init =>
+inicia um novo repositorio local na pasta atual
 vai iniciar dentro do visual stedio code
 vai ficar com U verde
 2 - git status => informaçoes do projeto
 
+
 3 - git add index.html
+add arquivos selecionados para area de stage (prontas para ser comitado)
  para add e praparar arquivo para subir para o git
 
 obs:####################################################
@@ -12,8 +15,19 @@ git config --global user.email "meu_email"
 git config --global user.name "meu_name"
 
 4 - git commit -m "inicializamos o projeto"
+grava as alteraçoes feitas no stage como uma nova versao do codigo
 para enviar o projeto ao github comitar
 
 5 - git add .
 comando mais usado para salvar tudo de uma vez
+6 - git log
+verifica as açoes historicos do commits
+
+7 - procedimentos para nevegar para commits anteriores
+7-1 git log => apos issso faz:
+7.2 git checkout mas_numero_do_commit
+
+8 - git checkout master =>
+volta para commit principal 
+
 
