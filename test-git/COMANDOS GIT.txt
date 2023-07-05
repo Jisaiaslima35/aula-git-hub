@@ -1,0 +1,19 @@
+1 - git init =>
+vai iniciar dentro do visual stedio code
+vai ficar com U verde
+2 - git status => informaçoes do projeto
+
+3 - git add index.html
+ para add e praparar arquivo para subir para o git
+
+obs:####################################################
+codigo para logar com gitHub
+git config --global user.email "meu_email"
+git config --global user.name "meu_name"
+
+4 - git commit -m "inicializamos o projeto"
+para enviar o projeto ao github comitar
+
+5 - git add .
+comando mais usado para salvar tudo de uma vez
+
