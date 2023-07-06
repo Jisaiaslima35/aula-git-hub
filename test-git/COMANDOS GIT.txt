@@ -57,3 +57,4 @@ esse junta unifica as branch a principalgit
 
 13 - comando para salvar depois de clonado e criado nova branch:
 13.1 - git push origin nome_nova_branch
+13.2 - git push => aparti de branch master
