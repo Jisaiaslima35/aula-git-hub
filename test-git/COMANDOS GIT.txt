@@ -40,3 +40,10 @@ volta para commit principal
 
 9 - git merge somar
 esse junta unifica as branch a principalgit
+
+10 - comando para enviar projeto aparti do meu procedimentos
+// tem que criar um repositorio aparti do gitHub
+
+10.1 - git remote add origin https://github.com/Jisaiaslima35/aula-git-hub.git
+10.2 - git branch -M main  => se quiser renomear o projeto
+10.3 - git push -u origin nome_do_projeto
