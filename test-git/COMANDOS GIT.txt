@@ -47,3 +47,10 @@ esse junta unifica as branch a principalgit
 10.1 - git remote add origin https://github.com/Jisaiaslima35/aula-git-hub.git
 10.2 - git branch -M main  => se quiser renomear o projeto
 10.3 - git push -u origin nome_do_projeto
+
+## para clonar um repositorio de terceiros em projeto coletivo
+
+12 - para clonar repositorio de terceiros:
+12.1 ir em fork / garfo criar garfo =>
+12.2 copiar linh hhtps:
+12.3 => git clone "https://ww.........."
