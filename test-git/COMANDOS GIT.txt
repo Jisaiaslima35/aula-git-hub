@@ -30,4 +30,5 @@ verifica as açoes historicos do commits
 8 - git checkout master =>
 volta para commit principal 
 
-
+9 - git merge somar
+esse junta unifica as branch a principalgit
