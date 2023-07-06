@@ -54,3 +54,6 @@ esse junta unifica as branch a principalgit
 12.1 ir em fork / garfo criar garfo =>
 12.2 copiar linh hhtps:
 12.3 => git clone "https://ww.........."
+
+13 - comando para salvar depois de clonado e criado nova branch:
+13.1 - git push origin nome_nova_branch
