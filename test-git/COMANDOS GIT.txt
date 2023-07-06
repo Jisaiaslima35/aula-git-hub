@@ -28,7 +28,15 @@ verifica as açoes historicos do commits
 7.2 git checkout mas_numero_do_commit
 
 8 - git checkout master =>
-volta para commit principal 
+volta para commit principal
+
+9 - quando  puder  teclar aperta o q .clear
+
+10 - git checkout -b somar
+ criando uma nova branch para.
+
+ 11 - git branch =>
+ lista todas branch
 
 9 - git merge somar
 esse junta unifica as branch a principalgit
